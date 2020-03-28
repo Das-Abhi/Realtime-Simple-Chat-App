@@ -3,7 +3,7 @@ body {
     margin: 0;
     display: flex;
     justify-content: center;
-    background-image: url(http://getwallpapers.com/wallpaper/full/3/b/0/934222-pastel-background-images-2560x1440-for-samsung.jpg);
+    background-image: url("bgchatroom.jpg");
   }
 
   #message-container {
